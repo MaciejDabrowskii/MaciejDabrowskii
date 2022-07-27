@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  hey there
+  Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -25,7 +25,9 @@ I am an aspiring developer from Poland, and for the past few months, I have lear
 My goal is to become a full-fledged Developer. I am looking for opportunities to obtain real-world experience to test and improve my newly acquired skill set.
 Also, to learn and grow as a developer.
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maciej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-d%C4%85browski-091a02246/)
+:page_with_curl: [My Portfolio](https://maciejdabrowskii.github.io/PROJECT-PORTFOLIO/)
+
+:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Maciej-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maciej-d%C4%85browski-091a02246/)
 
 Currently learning:
 <ul>
@@ -67,7 +69,3 @@ Interested in learning:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejDabrowskii&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :page_with_curl: My Portfolio:
-
-[Portfolio](https://maciejdabrowskii.github.io/PROJECT-PORTFOLIO/)
